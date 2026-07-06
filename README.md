@@ -38,13 +38,13 @@
 
 ---
 
+---
+
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jakerul-islam
-&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakerul-islam
-&theme=radial&hide_border=true" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jakerul-islam&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakerul-islam&theme=radial&hide_border=true" alt="GitHub Streak" height="150" />
 </p>
 
 ---
