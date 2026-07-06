@@ -2,6 +2,12 @@
 <h3 align="center">A passionate MERN Stack & Frontend Developer from Bangladesh</h3>
 
 <p align="center">
+  <a href="https://jakerul-islam-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-1877F2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&strikethrough=false&duration=2000&pause=500&color=1877F2&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Md+Jakerul+Islam;MERN+Stack+Developer;Immensely+love+Developing;Let's+make+something+cool!" alt="Typing SVG" />
 </p>
 
@@ -10,6 +16,7 @@
 ### 💫 About Me
 
 - 🌐 **Focus:** Building responsive, modern, and user-centric web applications.
+- 🔗 **Portfolio:** Check out my work at [jakerul-islam-portfolio.vercel.app](https://jakerul-islam-portfolio.vercel.app)
 - 🌱 **Currently Mastering:** Full-stack development with the **MERN Stack** (MongoDB, Express.js, React, Node.js) and advanced authentication frameworks like **Better Auth**.
 - ⚡ **Goal:** Turning complex ideas into clean, scalable, and efficient digital solutions.
 
@@ -38,14 +45,12 @@
 
 ---
 
-### 📊 GitHub Analytics
 
-
----
 
 ### 🤝 Connect with Me
 
 <p align="left">
+  <a href="https://jakerul-islam-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-🌐-blue?style=for-the-badge" alt="Portfolio" /></a>
   <a href="mailto:jakerulislam024@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://linkedin.com/in/md-jakerul-islam" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/jakerulislam0" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
